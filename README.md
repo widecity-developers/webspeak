@@ -1,6 +1,6 @@
 # webspeak
 This repo is a cdn that can speak a web content 
-use the cdn link '''https://cdn.jsdelivr.net/gh/widecity-developers/webspeak/speak.js'''
+use the cdn link ```https://cdn.jsdelivr.net/gh/widecity-developers/webspeak/speak.js```
 example
 
 <!DOCTYPE html>
