@@ -1,6 +1,6 @@
 # webspeak
 This repo is a cdn that can speak a web content 
-use the cdn link 
+use the cdn link  after the body tag
 ```
 <script src ="https://cdn.jsdelivr.net/gh/widecity-developers/webspeak/widy_speak.js"></script>
 ```
