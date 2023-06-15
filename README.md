@@ -2,13 +2,13 @@
 This repo is a cdn that can speak a web content 
 use the cdn link 
 ```
-<script src ="https://cdn.jsdelivr.net/gh/widecity-developers/webspeak/speak.js"></script>
+<script src ="https://cdn.jsdelivr.net/gh/widecity-developers/webspeak/widy_speak.js"></script>
 ```
-Just call the function
+Just add the class to speak
 ```
-speak('text to speak')
+class="widy_speak"
 ```
-Call this function where ever you want the text to speak feature. like mouseenter on a p tag as given below.
+Add this class where ever you want the text to speak feature. p tag, div, etc... as given below.
 
 example
 
@@ -18,12 +18,14 @@ example
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script src="https://cdn.jsdelivr.net/gh/widecity-developers/webspeak/speak.js"></script>
+    <title>widy_speak</title>
 </head>
 <body>
-<p onmouseenter="speak(this.innerText)">hello everyone</p>
+    <p class="widy_speak">welcome to widecity technologies</p>
+    <p class="widy_speak">how are you. </p>
+    <p class="widy_speak">contact at 946658045 for enquires</p>
+    <p class="widy_speak">join our widecity community and explore the new technologies at your figuretips</p>
 </body>
-
+<script src ="https://cdn.jsdelivr.net/gh/widecity-developers/webspeak/widy_speak.js"></script>
 </html>
 ```
