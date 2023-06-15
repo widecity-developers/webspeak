@@ -4,6 +4,12 @@ use the cdn link
 ```
 <script src ="https://cdn.jsdelivr.net/gh/widecity-developers/webspeak/speak.js"></script>
 ```
+Just call the function
+```
+speak('text to speak')
+```
+Call this function where ever you want the text to speak feature. like mouseenter on a p tag as given below.
+
 example
 
 ```
