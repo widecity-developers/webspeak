@@ -25,7 +25,7 @@ example
     <p class="widy_speak">how are you. </p>
     <p class="widy_speak">contact at 946658045 for enquires</p>
     <p class="widy_speak">join our widecity community and explore the new technologies at your figuretips</p>
-</body>
 <script src ="https://cdn.jsdelivr.net/gh/widecity-developers/webspeak/widy_speak.js"></script>
+</body>
 </html>
 ```
